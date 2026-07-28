@@ -1,2 +1,1 @@
-# datascience-lab
-Introduction to Github and Kaggle
+Today i learned how to use kaggle and github.I took titanic dataset and create csv file then i learned how to find starting row and column as well ending row and column using  head and tail function respectively.Then i find the information using info function and count null values .
